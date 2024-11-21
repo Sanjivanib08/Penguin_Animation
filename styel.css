@@ -193,4 +193,6 @@ body {
 
 .penguin * {
   position: absolute;
+  background-color: coral;
+  
 }
